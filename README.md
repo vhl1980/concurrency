@@ -1,4 +1,5 @@
 # concurrency
 
-Java se Executor vs disruptor LMAX
+Java se Executor
+disruptor LMAX
 
